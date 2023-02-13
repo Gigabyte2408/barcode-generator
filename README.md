@@ -5,3 +5,8 @@ Additional parameters included making sure the numbers also showed below the bar
 The bulk of the work was targetted around translating the inputted numbers into a framework that outputs the correct image of a barecode afterwards.
 
 Imported one file called graphics with the relevant precursor functions.
+
+#Potential Future Improvements
+
+The code ised is rudimentary and can be improved through various means.
+One way would be to reduce the overall amount of code using functions or nested loops.
